@@ -1,6 +1,14 @@
-- 👋 Hi, I’m @AsylCeo
-- 👀 I’m interested in Rats
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🔭 I’m currently working on AsylantenCeo.xyz
+
+🌱 I’m currently learning idk
+
+👯 Coding Rats 
+
+💬 Ask me about Programming, Server Management 
+
+📫 Contact me on discord AsylantenCeo#0001
+
+⚡ fact Currently losing control over my life
+
+⚡ not very active on github
 
