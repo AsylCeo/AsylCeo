@@ -6,7 +6,7 @@
 
 💬 Ask me about Programming, Server Management 
 
-📫 Contact me on discord AsylantenCeo#0001
+📫 Contact me on discord AsylantenCeo#1337
 
 ⚡ fact Currently losing control over my life
 
