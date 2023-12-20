@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm AsylCeo (AsylantenCeo)</h1>
 <h3 align="center">A passionate developer from Germany</h3>
 
-- 🔭 I’m currently working on [asylantenceo.xyz](https://asylceo.me/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/AsylCeo](https://github.com/AsylCeo)
-
-- 📫 How to reach me **Discord: AsylantenCeo#1337**
+- 📫 How to reach me **Discord: AsylantenCeo**
 
 - ⚡ Fun fact **brain afk**
 
